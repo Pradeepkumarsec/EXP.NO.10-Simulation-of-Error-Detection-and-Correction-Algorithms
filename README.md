@@ -7,6 +7,7 @@ To simulate error detection and correction techniques, such as Parity Check and 
 # SOFTWARE REQUIRED
 ->Python
 
+
 # ALGORITHMS
 
 1. Parity Check (Error Detection)
